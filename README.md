@@ -5,9 +5,10 @@ Small physics engine wrote on c# with Imgui!
 
 # 📋 Features:
 + 3D render
-+ Imgui
-+ Physics
++ [ImGui](https://github.com/ImGuiNET/ImGui.NET)
++ [Physics](https://github.com/ValtoLibraries/BulletSharp)
 + FOV
++ [Skybox](https://tools.wwwtyro.net/space-3d/index.html)
 + Wireframe
 + Impulses
 

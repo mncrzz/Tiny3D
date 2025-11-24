@@ -11,7 +11,7 @@ Small physics engine wrote on c# with Imgui!
 + Wireframe
 + Impulses
 
->[!Library]
-> [BulletSharp](https://github.com/ValtoLibraries/BulletSharp)
-> [OpenTK](https://opentk.net/)
-> [ImGui.NET](https://github.com/ImGuiNET/ImGui.NET)
+# 💼 Libraries:
++ [BulletSharp](https://github.com/ValtoLibraries/BulletSharp)
++ [OpenTK](https://opentk.net/)
++ [ImGui.NET](https://github.com/ImGuiNET/ImGui.NET)
